@@ -1,0 +1,9 @@
+{
+  "languages": ["Python", "TypeScript", "JavaScript", "HTML/CSS"],
+  "frameworks": ["FastAPI", "Vue 3", "Express.js", "Tailwind CSS"],
+  "ai_ml": ["AWS Bedrock", "Claude API", "LangChain", "Prompt Engineering", "Tool-use Architectures"],
+  "cloud_devops": ["AWS", "Cloud Run", "Docker", "GitHub Actions"],
+  "databases": ["PostgreSQL", "SQLite", "Redis"],
+  "tools": ["Git", "WebSocket", "REST APIs", "Telegram Bot API"],
+  "concepts": ["Agentic Systems", "Tool-use Loops", "RAG", "Real-time Systems", "Serverless Architecture"]
+}

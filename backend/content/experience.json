@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Independent Software Engineer",
+    "company": "Self-employed",
+    "period": "2024 — Present",
+    "highlights": [
+      "Built ScreenWise, an agentic screen-analysis tool using AWS Bedrock and FastAPI",
+      "Developed CallaFlorist, a full-stack e-commerce site with Telegram notification pipeline",
+      "Created PO Agent, an AI twin that represents my portfolio with real tool-use capabilities"
+    ]
+  }
+]
